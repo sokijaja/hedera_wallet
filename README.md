@@ -1,4 +1,4 @@
-# Hedera Waller - Vue Build #
+# Hedera Wallet - Vue Build #
 
 A multi-asset crypto wallet extension built with the vue framework
 
